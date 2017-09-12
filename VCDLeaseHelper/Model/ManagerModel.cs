@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace VCDLeaseHelper.Model
 {
-    public class CustomerInfoData : INotifyPropertyChanged
+    public class ManagerModel : INotifyPropertyChanged
     {
         private Dictionary<int, CustomerInfo> customerInfoDic = new Dictionary<int, CustomerInfo>();
         public Dictionary<int, CustomerInfo> CustomerInfoDic

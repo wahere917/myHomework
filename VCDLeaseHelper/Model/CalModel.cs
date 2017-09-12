@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace VCDLeaseHelper.Model
 {
-    public class ModelData: INotifyPropertyChanged
+    public class CalModel: INotifyPropertyChanged
     {
         /// <summary>  
         /// 大陆片数 

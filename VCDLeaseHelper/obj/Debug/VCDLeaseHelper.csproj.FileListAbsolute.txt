@@ -11,4 +11,3 @@ D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.Properties.Resourc
 D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.csproj.GenerateResource.Cache
 D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.exe
 D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.pdb
-D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.csprojResolveAssemblyReference.cache

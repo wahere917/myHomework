@@ -10,7 +10,7 @@ namespace VCDLeaseHelper.Common
 {
     public static class ModelCalClass
     {
-        public static void CalculatePrice(ModelData modelData)
+        public static void CalculatePrice(CalModel modelData)
         {
             modelData.TotalPrice = (double)(CalConst.mainlandP * modelData.MainlandNum + 
                 CalConst.hkP * modelData.HKNum + CalConst.foreignP * modelData.ForeignNum) * modelData.Days;
@@ -24,7 +24,7 @@ namespace VCDLeaseHelper.Common
             return integral;
         }
 
-        public static void CalculateIntegral(ModelData modelData)
+        public static void CalculateIntegral(CalModel modelData)
         {
             modelData.Integral = (double)(CalConst.mAndHI * (modelData.MainlandNum + modelData.HKNum) +
                 CalConst.foreignI * modelData.ForeignNum) * modelData.Days;

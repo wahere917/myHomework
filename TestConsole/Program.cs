@@ -11,13 +11,13 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            var modelData = new ModelData() {
+            var modelData = new CalModel() {
                 MainlandNum=2,
                 HKNum=3,
                 ForeignNum=1,
                 Days=4
             };
-            var customerData = new CustomerInfoData(){
+            var customerData = new ManagerModel(){
                 NewName="Jerry"
             };
             //计算价格

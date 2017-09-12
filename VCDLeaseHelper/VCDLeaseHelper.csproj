@@ -62,8 +62,8 @@
     <Compile Include="Common\CommonData.cs" />
     <Compile Include="Common\ModelCalClass.cs" />
     <Compile Include="Data\ConstData.cs" />
-    <Compile Include="Model\CustomerInfoData.cs" />
-    <Compile Include="Model\ModelData.cs" />
+    <Compile Include="Model\ManagerModel.cs" />
+    <Compile Include="Model\CalModel.cs" />
     <Compile Include="ViewModel\ViewModel.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>

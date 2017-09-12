@@ -30,23 +30,23 @@ namespace TestConsole
             return integral + totalIntegral;
         }
         //计算价格
-        public static void CalPrice(ModelData data)
+        public static void CalPrice(CalModel data)
         {
             ModelCalClass.CalculatePrice(data);           
         }
         //计算积分
-        public static void CalIntegral(ModelData data)
+        public static void CalIntegral(CalModel data)
         {
             ModelCalClass.CalculateIntegral(data);
         }
         //添加用户
-        public static void AddCustomer(CustomerInfoData customerData)
+        public static void AddCustomer(ManagerModel customerData)
         {
             customerData.CustomerInfoDic.Add(customerData.CustomerInfoDic.Count, new CustomerInfo() { Name = customerData.NewName, HistoryIntegral = 0 });
             customerData.SelectData = customerData.CustomerInfoDic[customerData.CustomerInfoDic.Count-1];
         }
         //累加积分
-        public static void CalHisIntegral(ModelData data,CustomerInfoData customerData)
+        public static void CalHisIntegral(CalModel data,ManagerModel customerData)
         {
             customerData.SelectData.HistoryIntegral+= data.Integral;     
         }

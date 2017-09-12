@@ -13,11 +13,11 @@ namespace VCDLeaseHelper.ViewModel
     public class HelperViewModel : NotifyPropertyChanged
     {
         string path = @"CustomerInfo/CustomerInfo.json";
-        public ModelData modelData = new ModelData();
+        public CalModel modelData = new CalModel();
         /// <summary>  
         /// 计算实体类  
         /// </summary>  
-        public ModelData ModelData
+        public CalModel ModelData
         {
             get
             {
@@ -32,8 +32,8 @@ namespace VCDLeaseHelper.ViewModel
         /// <summary>  
         /// 顾客积分管理类 
         /// </summary>  
-        public CustomerInfoData customerData = new CustomerInfoData();
-        public CustomerInfoData CustomerData
+        public ManagerModel customerData = new ManagerModel();
+        public ManagerModel CustomerData
         {
             get
             {
