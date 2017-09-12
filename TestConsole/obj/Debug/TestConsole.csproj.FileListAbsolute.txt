@@ -1,0 +1,9 @@
+D:\Project\MyHomework\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Project\MyHomework\TestConsole\bin\Debug\TestConsole.exe
+D:\Project\MyHomework\TestConsole\bin\Debug\TestConsole.pdb
+D:\Project\MyHomework\TestConsole\bin\Debug\VCDLeaseHelper.exe
+D:\Project\MyHomework\TestConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MyHomework\TestConsole\bin\Debug\VCDLeaseHelper.pdb
+D:\Project\MyHomework\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\Project\MyHomework\TestConsole\obj\Debug\TestConsole.exe
+D:\Project\MyHomework\TestConsole\obj\Debug\TestConsole.pdb

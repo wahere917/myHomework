@@ -1,0 +1,14 @@
+D:\Project\MyHomework\VCDLeaseHelper\bin\Debug\VCDLeaseHelper.exe.config
+D:\Project\MyHomework\VCDLeaseHelper\bin\Debug\VCDLeaseHelper.exe
+D:\Project\MyHomework\VCDLeaseHelper\bin\Debug\VCDLeaseHelper.pdb
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\MainWindow.g.cs
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\App.g.cs
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper_MarkupCompile.cache
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper_MarkupCompile.lref
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\MainWindow.baml
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.g.resources
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.Properties.Resources.resources
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.csproj.GenerateResource.Cache
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.exe
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.pdb
+D:\Project\MyHomework\VCDLeaseHelper\obj\Debug\VCDLeaseHelper.csprojResolveAssemblyReference.cache
